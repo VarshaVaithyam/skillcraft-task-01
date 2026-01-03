@@ -1,2 +1,3 @@
-# skillcraft-task-01
-calculator
+# calculator
+
+A new Flutter project.
